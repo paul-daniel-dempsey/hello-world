@@ -1,2 +1,2 @@
-# hello-world NEW
-Paul1
+# hello-world
+Just another repository
